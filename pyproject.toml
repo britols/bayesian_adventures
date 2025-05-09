@@ -1,0 +1,25 @@
+[project]
+name = "bee-5850-term-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arviz>=0.21.0",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "numpyro>=0.18.0",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "pyextremes>=2.3.3",
+    "pymc>=5.21.1",
+    "pymc-extras>=0.2.5",
+    "requests>=2.32.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "sktime>=0.36.0",
+    "statsmodels>=0.14.4",
+    "xarray>=2025.1.2",
+]
